@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BlinkingApp</string>
+    <string name="textLine">Welcome to Galgotias University !</string>
+    <string name="click_me">CLICK ME</string>
+</resources>
